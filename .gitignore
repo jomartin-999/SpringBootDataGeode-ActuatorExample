@@ -1,0 +1,5 @@
+# Default ignored files
+/.idea/*
+.gitattributes
+/target
+spring-boot-geode-actuator-example.iml
